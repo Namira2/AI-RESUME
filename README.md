@@ -36,6 +36,5 @@ The AI Resume Screening and Ranking System automates candidate evaluation using 
 - Improved AI Models for enhanced ranking accuracy.  
 - Multi-Language Support for global usability.  
 
-#Contact
-namiraq336@gmail.com 
+# Contact
 For inquiries, reach out at namiraq336@gmail.com 
